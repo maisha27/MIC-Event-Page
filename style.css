@@ -1,0 +1,56 @@
+.cls0{
+
+    font-size: 50px;
+    color: rgb(128, 128, 128);
+    border-bottom: 1px #808080;
+
+}
+.container{
+    width: 150px;
+    height: 160px;
+    margin: auto;
+
+}
+.row{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    height: 150px;
+}
+.col{
+    font-size: 50px;
+    color: rgb(128, 128, 128);
+}
+.flex-container
+{
+    display: flex;
+    justify-content:center;
+}
+.card
+{
+    flex: 1;
+    height: 400px;
+    border-width: 0px;
+}
+.card-body
+{
+    height: 400px;
+}
+.card-body img
+{
+    max-width: 100%;
+}
+.card-text
+{
+    color:#808080;
+}
+.break
+{
+     display: block;
+    border-bottom: 1px solid #808080;
+      
+}
+.bold
+{
+    font-weight: 800;
+}
